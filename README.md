@@ -1,1 +1,1 @@
-this is readme
+UPI fraud has become a major concern in India recently, with scammers continuously finding new ways to exploit the system. Due to its novelty, there is lesser awareness on UPI fraud than there is for other ways of banking. Our Whatsapp Bot -  - hits two birds with one stone. It allows the user to input a link, which it checks for legitimacy, while it also helps inform the user on safety tips and helps them recognize these sort of attempts on their own.
