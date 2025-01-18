@@ -1,7 +1,7 @@
 import requests
 import base64
 
-API_KEY = "e844603ee89b545691de8713c284538e3a6ddb9aa1fd2f63ba5e575f49931dd1"
+API_KEY = "e844603ee89b545691de8713c284538e3a6ddb9aa1fd2f63ba5e575f4931dd1"
 BASE_URL = "https://www.virustotal.com/api/v3"
 
 # Function to check URL for maliciousness
