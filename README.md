@@ -28,7 +28,7 @@ The **Malicious URL Detection Bot** aims to enhance online security by analyzing
 ### **Flask**  
 - A lightweight web framework for handling incoming requests and responses.  
 
-### **Twilio API**  
+### **Twilio**  
 - Facilitates WhatsApp integration for chatbot interaction.  
 
 ### **VirusTotal API**  
