@@ -67,16 +67,15 @@ def is_typo_squatted(url, trusted_domains):
     domain = urlparse(url).netloc
     for trusted in trusted_domains:
         similarity = SequenceMatcher(None, domain, trusted).ratio()
-        if similarity > 0.8:  # Threshold for similarity
+        if similarity > 0.8: 
             print(f"⚠️ Possible typo-squatted domain detected: {domain} (similar to {trusted})")
             return True
     return False
 
 # Main function to check URL with both APIs and heuristic
 def check_url(url):
-    # Replace with your API keys
     vt_api_key = "3a68df74b219bbc45d96a3cedf81ee6863a9ff3edd570f748098d343fa16b681"
-    gsb_api_key = "zaSyBkrsEeRJmN6KBJHk5KDNcZkNPm1aAATvY"
+    gsb_api_key = "**************"  # hidden due to security reasons
 
     print(f"🔗 Checking URL: {url}")
 
@@ -106,13 +105,11 @@ def check_url(url):
     else:
         print(f"[Google Safe Browsing] Error: {gsb_result['error']}")
 
-    # Determine if the URL is spam
     if vt_is_malicious or gsb_is_malicious:
         print(f"❌ The URL '{url}' is a SPAM!")
     else:
         print(f"✅ The URL '{url}' is SAFE.")
 
-# Entry point
 if __name__ == "__main__":
     url = input("Enter the URL to check: ")
     check_url(url)
