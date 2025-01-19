@@ -53,16 +53,14 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 
 ## 📷 **Preview**  
 
-1. **Real-Time URL Analysis**  
+1. **Real-Time URL Analysis and Threat Alert Example**  
    ![image](https://github.com/user-attachments/assets/6ad57abb-475e-490f-a0f8-c3fea55b84b4)
- 
-
-2. **Threat Alert Example**  
-   ![image](https://github.com/user-attachments/assets/cc7bf744-ca6d-4530-91c9-0b81b84bea35)
+    ![image](https://github.com/user-attachments/assets/cc7bf744-ca6d-4530-91c9-0b81b84bea35)
    ![image](https://github.com/user-attachments/assets/8ece8eb9-1304-4121-833a-2115341e048f)
 
- 
-
+2. **Chatbot Interface using Twilio**  
+  ![image](https://github.com/user-attachments/assets/63fbd38b-c824-4e84-add8-eccf2f93df9f)
+  ![image](https://github.com/user-attachments/assets/aaf9ecb3-c05f-4a12-af1a-4b67040307df)
 ---
 
 ## 🛣️ **Future Scope**  
@@ -77,8 +75,13 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 ## 📬 **Contact**  
 
 If you have any questions or suggestions, feel free to connect with us:  
-- **GitHub Repo**: [ShireenKachroo](https://github.com/ShireenKachroo)  
-- **Contributors**:[ShireenKachroo](https://github.com/ShireenKachroo), [Dhruvi-Bansal](https://github.com/Dhruvi-Bansal), [sainakonli](https://github.com/sainakohli), [anshikarajput296](https://github.com/anshikarajut296), [khushisinghal99](https://github.com/khushisinghal99)
+- **GitHub Repo**: https://github.com/ShireenKachroo/Cyber-Security-Hackathon  
+- **Contributors**:
+- [ShireenKachroo](https://github.com/ShireenKachroo)
+- [Dhruvi-Bansal](https://github.com/Dhruvi-Bansal)
+- [sainakohli](https://github.com/sainakohli)
+- [AnshikaRajput296](https://github.com/AnshikaRajput296)
+- [khushisinghal99](https://github.com/khushisinghal99)
 
 ---
 
