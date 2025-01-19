@@ -78,7 +78,7 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 
 If you have any questions or suggestions, feel free to connect with us:  
 - **GitHub Repo**: [ShireenKachroo](https://github.com/ShireenKachroo)  
-- **Contributors**:[ShireenKachroo](https://github.com/ShireenKachroo), [Dhruvi-Bansal](https://github.com/Dhruvi-Bansal), [sainakonli](https://github.com/sainakohli), [anshikarajput296](https://github.com/anshikarajut296), [khushi](https://github.com/khushii)
+- **Contributors**:[ShireenKachroo](https://github.com/ShireenKachroo), [Dhruvi-Bansal](https://github.com/Dhruvi-Bansal), [sainakonli](https://github.com/sainakohli), [anshikarajput296](https://github.com/anshikarajut296), [khushisinghal99](https://github.com/khushisinghal99)
 
 ---
 
