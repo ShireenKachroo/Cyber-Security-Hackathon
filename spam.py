@@ -76,7 +76,7 @@ def is_typo_squatted(url, trusted_domains):
 def check_url(url):
     # Replace with your API keys
     vt_api_key = "3a68df74b219bbc45d96a3cedf81ee6863a9ff3edd570f748098d343fa16b681"
-    gsb_api_key = "AIzaSyBkrsEeRJmN6KBJHk5KDNcZkNPm1aAATvY"
+    gsb_api_key = "zaSyBkrsEeRJmN6KBJHk5KDNcZkNPm1aAATvY"
 
     print(f"🔗 Checking URL: {url}")
 
