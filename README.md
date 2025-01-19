@@ -59,7 +59,6 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
    ![image](https://github.com/user-attachments/assets/8ece8eb9-1304-4121-833a-2115341e048f)
 
 2. **Chatbot Interface using Twilio**  
-  ![image](https://github.com/user-attachments/assets/63fbd38b-c824-4e84-add8-eccf2f93df9f)
   ![image](https://github.com/user-attachments/assets/aaf9ecb3-c05f-4a12-af1a-4b67040307df)
 ---
 
@@ -68,8 +67,7 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 - [ ] Add support for file analysis to detect malware in attachments.  
 - [ ] Implement advanced machine learning algorithms for threat detection.  
 - [ ] Develop a dashboard for admin monitoring and reporting.  
-- [ ] Integrate support for other communication platforms like Telegram.  
-
+ 
 ---
 
 ## 📬 **Contact**  
