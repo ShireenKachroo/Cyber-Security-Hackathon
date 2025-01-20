@@ -1,7 +1,7 @@
 # Malicious URL Detection Bot 🤖🛡️  
 
 Welcome to the Malicious URL Detection Bot, a cutting-edge WhatsApp-based chatbot created as part of the GDSC Hackin Winters 2025 Hackathon. This project introduces a robust, user-friendly system for identifying and mitigating threats posed by malicious URLs. It combines the power of APIs, Python, and browser extension technologies to protect users from phishing and fraudulent websites.
-The browser extension complements the WhatsApp bot by providing an additional layer of security during web browsing. It automatically monitors  malicious URLs using a predefined, developer-provided list.
+**The browser extension**complements the WhatsApp bot by providing an additional layer of security during web browsing. It automatically monitors  malicious URLs using a predefined, developer-provided list.
 
 ---
 
@@ -39,15 +39,17 @@ Syncs with the centralized threat database used by the WhatsApp bot.
 - A lightweight web framework for handling incoming requests and responses.  
 
 ### **Twilio**  
-- Facilitates WhatsApp integration for chatbot interaction.
-
-### **ngrok**: Exposes the local Flask server to the internet for seamless chatbot communication.  
+- Facilitates WhatsApp integration for chatbot interaction.  
 
 ### **VirusTotal API**  
 - Scans URLs against a comprehensive database to detect malicious content.  
 
 ### **Google Safe Browsing API**  
-- Adds an additional layer of phishing and malware detection.  
+- Adds an additional layer of phishing and malware detection.
+**Browser Extension**
+**Languages and Tools** JavaScript, HTML, CSS,node.js
+**VirusTotal API**  
+- Scans URLs against a comprehensive database to detect malicious content.  
 
 ---
 
