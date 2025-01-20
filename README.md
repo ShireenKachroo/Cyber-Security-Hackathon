@@ -1,12 +1,12 @@
 # Malicious URL Detection Bot 🤖🛡️  
 
-Welcome to the **Malicious URL Detection Bot**, a WhatsApp-based chatbot developed for the **GDSC Hackin Winters 2025 Hackathon**. This innovative project leverages APIs and Python to ensure user safety by detecting and flagging malicious or fraudulent URLs shared via WhatsApp.  
+Welcome to the **Malicious URL Detection Bot: Phish Guard**, a WhatsApp-based chatbot developed for the **GDSC Hackin Winters 2025 Hackathon**. This innovative project leverages APIs and Python to ensure user safety by detecting and flagging malicious or fraudulent URLs shared via WhatsApp.  
 
 ---
 
 ## 💡 **About the Project**  
 
-The **Malicious URL Detection Bot** aims to enhance online security by analyzing URLs in real-time to identify phishing attempts, malware, and other online threats. This chatbot is easy to use, efficient, and seamlessly integrates with WhatsApp for accessibility and convenience.  
+The **Malicious URL Detection Bot: Phish Guard** aims to enhance online security by analyzing URLs in real-time to identify phishing attempts, malware, and other online threats. This chatbot is easy to use, efficient, and seamlessly integrates with WhatsApp for accessibility and convenience.  
 
 ---
 
@@ -83,6 +83,6 @@ If you have any questions or suggestions, feel free to connect with us:
 
 ---
 
-Stay secure with the **Malicious URL Detection Bot**! 🛡️  
+Stay secure with **Phish Guard**! 🛡️  
 
 
