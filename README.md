@@ -74,6 +74,10 @@ Participating in the **Hackin Winters 2025 Hackathon** provided an opportunity t
 
 2. **Chatbot Interface using Twilio**  
   ![image](https://github.com/user-attachments/assets/aaf9ecb3-c05f-4a12-af1a-4b67040307df)
+
+3. **Browser Extension**
+   ![WhatsApp Image 2025-01-20 at 14 15 36_fee506a3](https://github.com/user-attachments/assets/7df5b296-bcd3-4af1-96ad-e65537a63b81)
+
 ---
 
 ## 🛣️ **Future Scope**  
