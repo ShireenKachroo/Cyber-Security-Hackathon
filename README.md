@@ -39,7 +39,10 @@ Syncs with the centralized threat database used by the WhatsApp bot.
 - A lightweight web framework for handling incoming requests and responses.  
 
 ### **Twilio**  
-- Facilitates WhatsApp integration for chatbot interaction.  
+- Facilitates WhatsApp integration for chatbot interaction.
+
+### **ngrok**
+- Exposes the local Flask server to the internet for seamless chatbot communication.  
 
 ### **VirusTotal API**  
 - Scans URLs against a comprehensive database to detect malicious content.  
