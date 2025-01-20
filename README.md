@@ -1,22 +1,32 @@
 # Malicious URL Detection Bot 🤖🛡️  
 
-Welcome to the **Malicious URL Detection Bot: Phish Guard**, a WhatsApp-based chatbot developed for the **GDSC Hackin Winters 2025 Hackathon**. This innovative project leverages APIs and Python to ensure user safety by detecting and flagging malicious or fraudulent URLs shared via WhatsApp.  
+Welcome to the Malicious URL Detection Bot, a cutting-edge WhatsApp-based chatbot created as part of the GDSC Hackin Winters 2025 Hackathon. This project introduces a robust, user-friendly system for identifying and mitigating threats posed by malicious URLs. It combines the power of APIs, Python, and browser extension technologies to protect users from phishing and fraudulent websites.
+The browser extension complements the WhatsApp bot by providing an additional layer of security during web browsing. It automatically monitors  malicious URLs using a predefined, developer-provided list.
 
 ---
 
 ## 💡 **About the Project**  
 
-The **Malicious URL Detection Bot: Phish Guard** aims to enhance online security by analyzing URLs in real-time to identify phishing attempts, malware, and other online threats. This chatbot is easy to use, efficient, and seamlessly integrates with WhatsApp for accessibility and convenience.  
+The **Malicious URL Detection Bot**  Users send a URL to the bot via WhatsApp.
+The bot processes the URL and determines its safety using:Threat intelligence APIs (e.g., VirusTotal, PhishTank).Custom algorithms that analyze patterns in the URL.Replies instantly with a detailed report on the URL's status.
+**Browser Extension for URL Safety** The browser extension complements and enhances the usability of the WhatsApp-based Malicious URL Detection Bot by extending its functionality across multiple platforms, such as web browsers, emails, and other online services. It acts as a proactive layer of defense, providing real-time URL safety checks as users navigate the internet, ensuring comprehensive protection beyond WhatsApp.
 
 ---
 
 ## ✨ **Features**  
-
+**Malicious URL Detection Bot** 
 - **Real-Time URL Analysis**: Detect malicious or fraudulent URLs instantly.  
 - **WhatsApp Integration**: User-friendly interaction via the **Twilio API**.  
 - **Threat Detection**: Powered by the **VirusTotal API** and **Google Safe Browsing API** to identify malware, phishing, and other threats.  
 - **Automated Responses**: Inform users about the safety of URLs shared.  
-- **Scalability**: Can be adapted for broader threat detection use cases.  
+- **Scalability**: Can be adapted for broader threat detection use cases.
+
+- **Browser Extension**
+**Platform**Chrome (extendable to Firefox, Edge).
+**Core Features**
+Real-time monitoring of all visited URLs.
+Notifications with detailed safety warnings.
+Syncs with the centralized threat database used by the WhatsApp bot.
 
 ---
 
@@ -83,6 +93,6 @@ If you have any questions or suggestions, feel free to connect with us:
 
 ---
 
-Stay secure with **Phish Guard**! 🛡️  
+Stay secure with the **Malicious URL Detection Bot**! 🛡️  
 
 
