@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Link Legitimacy Checker",
+  "version": "1.0",
+  "description": "Checks if a link is legitimate or fraudulent.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": ["*://*/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
